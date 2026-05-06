@@ -83,8 +83,8 @@ flowchart LR
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/fitness-trainer-pose-estimation.git
-cd fitness-trainer-pose-estimation
+git clone https://github.com/vidhiomar/Gym-AI-Trainer
+cd Gym-AI-Trainer
 2. Install Dependencies
 pip install -r requirements.txt
 3. Setup Static Assets
